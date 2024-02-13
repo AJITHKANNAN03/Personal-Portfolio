@@ -588,6 +588,7 @@ margin:10px;
          }
          .skills{
             justify-content: space-around;
+            padding:20px;
             line-height: 3;
         }
          .box2 div h3{
