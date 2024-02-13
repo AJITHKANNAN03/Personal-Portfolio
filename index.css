@@ -587,8 +587,7 @@ form{
 margin:10px;
          }
          .skills{
-            justify-content: start;
-            padding-left:80px;
+            justify-content: space-evenly;
             line-height: 3;
         }
          .box2 div h3{
