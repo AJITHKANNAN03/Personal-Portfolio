@@ -40,7 +40,7 @@ html{
     word-spacing: 70px;
 }
 img{
-    object-fit: cover;
+    object-fit: fill;
 }
 .nav-links a{
     color:white;
